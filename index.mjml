@@ -1,0 +1,265 @@
+<mjml>
+  <mj-head>
+    <mj-title> M1 Data Passport 4 - Dominic Arrojado </mj-title>
+
+    <!-- START of Global Attributes -->
+    <mj-breakpoint width="800px" />
+    <mj-attributes>
+      <mj-all padding="0" font-family="Arial" line-height="1.4" />
+    </mj-attributes>
+    <!-- END of Global Attributes -->
+
+    <!-- START of Inline Style Overrides -->
+    <!-- prettier-ignore -->
+    <mj-style inline="inline">
+      .btn-text-sm,
+      .btn-text-lg {
+        display: inline;
+        margin: 0;
+        background: transparent;
+        color: #034e71;
+        font-family: Arial;
+        line-height: 1.4;
+        text-decoration: underline;
+        cursor: pointer;
+      }
+
+      .btn-text-lg {
+        font-size: 30px;
+      }
+
+      .btn-text-sm {
+        font-size: 14px;
+      }
+    </mj-style>
+    <!-- END of Inline Style Overrides -->
+
+    <!-- START of Internal/Mobile Styles -->
+    <!-- prettier-ignore -->
+    <mj-style>
+      .btn-text-hover a:hover,
+      a.btn-text-hover:hover {
+        cursor: pointer !important;
+        text-decoration: none !important;
+      }
+
+      @media only screen and (max-width: 799px) {
+        .mobile-hide {
+          display: none !important;
+        }
+
+        .mobile-padding-x-0 > table > tbody > tr > td {
+          padding-right: 0 !important;
+          padding-left: 0 !important;
+        }
+
+        .mobile-font-size-md,
+        .mobile-font-size-md > div {
+          font-size: 20px !important;
+        }
+      }
+    </mj-style>
+    <!-- END of Internal/Mobile Styles -->
+
+    <mj-raw>
+      <!-- START of Google Tag Manager -->
+      <script>
+        if (window.location.hostname !== "localhost") {
+          (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+            var f = d.getElementsByTagName(s)[0],
+              j = d.createElement(s),
+              dl = l != "dataLayer" ? "&l=" + l : "";
+            j.async = true;
+            j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+            f.parentNode.insertBefore(j, f);
+          })(window, document, "script", "dataLayer", "GTM-TSMLTPT");
+        }
+      </script>
+      <!-- END of Google Tag Manager -->
+
+      <link rel="icon" href="https://dominicarrojado.com/favicon.ico" />
+      <meta name="theme-color" content="#d7e1e9" />
+      <meta
+        name="description"
+        content="Email template for M1 Data Passport 4"
+      />
+      <link
+        rel="canonical"
+        href="https://dominicarrojado.com/m1-data-passport-4-edm/"
+      />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta
+        property="og:title"
+        content="M1 Data Passport 4 - Dominic Arrojado"
+      />
+      <meta
+        property="og:description"
+        content="Email template for M1 Data Passport 4"
+      />
+      <meta
+        property="og:url"
+        content="https://dominicarrojado.com/m1-data-passport-4-edm/"
+      />
+      <meta
+        property="og:site_name"
+        content="M1 Data Passport 4 - Dominic Arrojado"
+      />
+      <meta
+        property="og:image"
+        content="https://dominicarrojado.com/m1-data-passport-4-edm/images/m1-data-passport-4-screenshot.png"
+      />
+      <meta
+        property="og:image:secure_url"
+        content="https://dominicarrojado.com/m1-data-passport-4-edm/images/m1-data-passport-4-screenshot.png"
+      />
+      <meta property="og:image:width" content="2880" />
+      <meta property="og:image:height" content="1800" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta
+        name="twitter:description"
+        content="Email template for M1 Data Passport 4"
+      />
+      <meta
+        name="twitter:title"
+        content="M1 Data Passport 4 - Dominic Arrojado"
+      />
+      <meta
+        name="twitter:image"
+        content="https://dominicarrojado.com/m1-data-passport-4-edm/images/m1-data-passport-4-screenshot.png"
+      />
+    </mj-raw>
+  </mj-head>
+  <mj-body width="800px" background-color="#f6f6f6">
+    <!-- START of Hero Image -->
+    <mj-section>
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            href="https://www.m1.com.sg/Mobile/mobile-add-ons/Roaming/data-passport"
+            rel="noopener noreferrer nofollow"
+            src="images/banner-m1-data-passport-roam-easy-and-roam-free.png"
+            alt="M1 Data Passport - Roam Easy &amp; Roam Free with M1 Data Passport"
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- END of Hero Image -->
+
+    <!-- START of Introduction -->
+    <mj-section background-color="#81bf5c" padding="35px 15px 30px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-text
+            css-class="mobile-font-size-md"
+            align="center"
+            color="#ffffff"
+            font-size="30px"
+            line-height="1.3"
+          >
+            Travel with your local data bundle worldwide
+            <br class="mobile-hide" />
+            from just $10/month per destination!
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- END of Introduction -->
+
+    <!-- START of Steps -->
+    <mj-section>
+      <mj-group>
+        <mj-column width="100%">
+          <mj-image
+            src="images/illus-choose-your-adventure.png"
+            alt="Step 1: Choose your adventure - Thailand, Malaysia, Indonesia, Japan, USA, Australia, United Kingdom or from 49 other countries! Step 2: Activate via M1 app or the link below. Step 3: Start using data upon touchdown."
+          />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- END of Steps -->
+
+    <mj-wrapper
+      background-url="images/bg-flight-connections.png"
+      background-repeat="no-repeat"
+      background-color="#fff7de"
+    >
+      <!-- START of Call to Action -->
+      <mj-section padding="0 15px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-text
+              align="center"
+              css-class="mobile-font-size-md"
+              padding-top="40px"
+              color="#034e71"
+              font-size="30px"
+              font-weight="bold"
+              line-height="1.2"
+              text-transform="uppercase"
+            >
+              With
+              <a
+                href="https://www.m1.com.sg/Mobile/mobile-add-ons/Roaming/data-passport"
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                class="btn-text-lg btn-text-hover mobile-font-size-md"
+                >data passport</a
+              >, staying <br class="mobile-hide" />connected has never been
+              easier.
+            </mj-text>
+            <mj-image
+              href="https://web.m1.com.sg/dpp"
+              rel="noopener noreferrer nofollow"
+              src="images/btn-sign-up-today.png"
+              alt="Sign Up Today"
+              padding="30px 0 180px"
+              width="634px"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Call to Action -->
+
+      <!-- START of Unsubscribe -->
+      <mj-section background-color="#fff7de" padding="25px 15px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-text
+              align="center"
+              color="#034e71"
+              font-size="14px"
+              line-height="1.4"
+            >
+              If you wish to unsubscribe from our mailing list,
+              <a
+                href="https://www.m1.com.sg/mma"
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                class="btn-text-sm btn-text-hover"
+                >click here</a
+              >
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Unsubscribe -->
+    </mj-wrapper>
+
+    <mj-raw>
+      <!-- START of Google Tag Manager (noscript) -->
+      <noscript>
+        <iframe
+          src="https://www.googletagmanager.com/ns.html?id=GTM-TSMLTPT"
+          height="0"
+          width="0"
+          style="display: none; visibility: hidden"
+        >
+        </iframe>
+      </noscript>
+      <!-- END of Google Tag Manager (noscript) -->
+    </mj-raw>
+  </mj-body>
+</mjml>
